@@ -1,0 +1,8 @@
+2- git -c http.sslVerify=false clone https://git.hiast.edu.sy/morhaf.ahmad/spring-boot.git
+3-cd spring-boot
+4-git add .
+5-git commit -m "First push to GitLab"
+6-git config --global http.sslVerify false
+7-git push -u -f origin master
+
+
